@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="23acde56-d439-4d4c-9ce6-3a3f3d917006" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/servicioTickets.wcf/ReservaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ReservaService.xsd" MetadataType="Schema" ID="ffdbdaf8-ba86-4754-8ead-887d7ae04144" SourceId="1" SourceUrl="http://localhost/servicioTickets.wcf/ReservaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ReservaService1.xsd" MetadataType="Schema" ID="3473fa9b-4229-4cdb-8f61-d48bb27988e0" SourceId="1" SourceUrl="http://localhost/servicioTickets.wcf/ReservaService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ReservaService.disco" MetadataType="Disco" ID="ee179d20-347b-4e57-bb12-8c0a9b3fb5e0" SourceId="1" SourceUrl="http://localhost/servicioTickets.wcf/ReservaService.svc?disco" />
+    <MetadataFile FileName="ReservaService.wsdl" MetadataType="Wsdl" ID="7b24b2d8-c19d-4a6f-97d7-9acc65bb37f5" SourceId="1" SourceUrl="http://localhost/servicioTickets.wcf/ReservaService.svc?wsdl" />
+    <MetadataFile FileName="ReservaService2.xsd" MetadataType="Schema" ID="5b7c7bf7-d67a-4bd4-8427-02ab1a869ca6" SourceId="1" SourceUrl="http://localhost/servicioTickets.wcf/ReservaService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

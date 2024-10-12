@@ -1,0 +1,40 @@
+# Binaries
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rerun in-memory caches
+_ReSharper.Caches/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# DotNet
+.dotnet/
+.vs/
+
